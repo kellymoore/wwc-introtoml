@@ -8,5 +8,5 @@ Numpy
 Sklearn
 Matplotlib
 
-** Titanic Chatbot **
+## Titanic Chatbot
 [Instructions for running to come]
